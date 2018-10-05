@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sell-common" />
+        <module name="sell-dao" />
+        <module name="sell-manager-web" />
+        <module name="sell-pojo" />
+        <module name="sell-sellergoods-interface" />
+        <module name="sell-sellergoods-service" />
+        <module name="sell-shop-web" />
+        <module name="sellcommon" />
+        <module name="selldao" />
+        <module name="sellmanagerweb" />
+        <module name="sellpojo" />
+        <module name="sellsellergoodsinterface" />
+        <module name="sellsellergoodsservice" />
+        <module name="sellshopweb" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
+  </component>
+</project>

@@ -1,0 +1,1 @@
+var app = angular.module('sell',['pagination']);    //分页

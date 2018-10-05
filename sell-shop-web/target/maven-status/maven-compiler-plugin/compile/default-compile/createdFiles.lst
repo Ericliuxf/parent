@@ -1,0 +1,4 @@
+com\synjones\shop\controller\LoginController.class
+com\synjones\shop\controller\GoodsController.class
+com\synjones\shop\userService\UserDetailsServiceImpl.class
+com\synjones\shop\controller\SellerController.class

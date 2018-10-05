@@ -1,0 +1,10 @@
+com\synjones\manager\controller\SpecificationOptionController.class
+com\synjones\manager\controller\LoginController.class
+com\synjones\manager\controller\SellerController.class
+com\synjones\manager\controller\TypeTemplateController.class
+com\synjones\manager\controller\SpecificationController.class
+com\synjones\manager\controller\ItemCatController.class
+com\synjones\manager\controller\BrandController.class
+com\synjones\manager\controller\GoodsDescController.class
+com\synjones\manager\controller\GoodsController.class
+com\synjones\manager\controller\ItemController.class

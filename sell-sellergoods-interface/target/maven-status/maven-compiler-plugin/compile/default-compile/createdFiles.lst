@@ -1,0 +1,9 @@
+com\synjones\sellergoods\service\ItemService.class
+com\synjones\sellergoods\service\GoodsDescService.class
+com\synjones\sellergoods\service\SpecificationService.class
+com\synjones\sellergoods\service\TypeTemplateService.class
+com\synjones\sellergoods\service\ItemCatService.class
+com\synjones\sellergoods\service\SpecificationOptionService.class
+com\synjones\sellergoods\service\SellerService.class
+com\synjones\sellergoods\service\GoodsService.class
+com\synjones\sellergoods\service\BrandService.class
